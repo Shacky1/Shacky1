@@ -36,15 +36,15 @@ I’m passionate about building **secure and scalable web applications**. Skille
 
 ## 📊 GitHub Stats
 
-![Meshack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meshackvenance&show_icons=true&theme=tokyonight)  
+![Meshack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshackvenance&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-bundala/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)  
 
 ---
