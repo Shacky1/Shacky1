@@ -1,5 +1,3 @@
-Here’s your updated and refined GitHub profile README — now including **NestJS** in your stack and intro, while keeping your professional tone clean and modern:
-
 ---
 
 # 👋 Hi, I'm Meshack Venance Bundala
