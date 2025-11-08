@@ -1,52 +1,62 @@
-# 👋 Hi, I'm Meshack Venance Bundala  
+Here’s your updated and refined GitHub profile README — now including **NestJS** in your stack and intro, while keeping your professional tone clean and modern:
 
-🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** | 🔐 **Web Security Enthusiast**  
+---
 
-I’m passionate about building **secure and scalable web applications**. Skilled in **backend & frontend development**, **RESTful APIs**, and **web security**. I enjoy solving technical challenges, collaborating on open-source projects, and continuously learning new technologies.  
+# 👋 Hi, I'm Meshack Venance Bundala
+
+🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** | ⚙️ **NestJS & Spring Boot Enthusiast** | 🔐 **Web Security Advocate**
+
+I’m passionate about building **secure, scalable, and high-performance web applications**. Skilled in **backend & frontend development**, **RESTful APIs**, and **web security**. I enjoy solving complex challenges, contributing to open-source projects, and learning modern technologies like **NestJS** and **microservices architecture**.
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently exploring **advanced web security** & **modern full-stack development**  
-- 🤝 Open to collaborating on **Java, Spring Boot, Angular, and open-source projects**  
-- ⚡ Experienced in **networking, embedded systems, and containerization**  
-- 📫 How to reach me: **meshackvenance7@gmail.com**  
+
+* 🌱 Currently exploring **NestJS**, **advanced web security**, and **modern full-stack development**
+* 🤝 Open to collaborating on **NestJS, Java Spring Boot, Angular**, and **open-source projects**
+* ⚡ Experienced in **networking, embedded systems, and containerization (Docker)**
+* 📫 How to reach me: **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
+**Languages**
+![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
 
-**Frameworks & Tools**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white)  
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+**Frameworks & Tools**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot\&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring\&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Meshack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight)  
+![Meshack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shacky1\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:meshackvenance7@gmail.com)
 
 ---
 
-⭐️ _“Striving to build impactful solutions, one project at a time.”_  
+⭐️ *“Building impactful solutions with clean code, secure design, and continuous learning.”*
+
+---
+
+Would you like me to make this version slightly more **GitHub-profile-optimized** (with emojis, layout spacing, and better section alignment)? It’ll look more polished on your profile page.
