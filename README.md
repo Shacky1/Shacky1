@@ -56,5 +56,3 @@ I’m passionate about building **secure, scalable, and high-performance web app
 ⭐️ *“Building impactful solutions with clean code, secure design, and continuous learning.”*
 
 ---
-
-Would you like me to make this version slightly more **GitHub-profile-optimized** (with emojis, layout spacing, and better section alignment)? It’ll look more polished on your profile page.
