@@ -47,8 +47,14 @@ I love solving complex technical challenges, contributing to open-source project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight" height="160px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
+    height="160"
+  />
 </p>
 
 ---
