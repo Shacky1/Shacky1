@@ -51,14 +51,33 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<!-- Primary Stats - using github-readme-activity-graph for better accuracy -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shacky1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Streak Stats - DenvSoft provider (more reliable than demolab) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shacky1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Shacky1)
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph - shows contribution activity visually -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shacky1&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/Shacky1)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shacky1&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Shacky1)
 
 </div>
 
