@@ -6,18 +6,18 @@
 🔐 **Web Security-Focused Engineer**
 
 I specialize in building **secure, scalable, and high-performance web applications**.  
-My expertise spans **backend and frontend development**, **RESTful API design**, and **web security**, with a strong focus on clean architecture and maintainable code.
+I am experienced in **backend and frontend development**, **RESTful API design**, and **web security**, with a strong focus on clean architecture and maintainable code.
 
-I am passionate about continuous learning, open-source collaboration, and working with modern frameworks such as **NestJS** and **Spring Boot**.
+I am passionate about continuous learning, contributing to open-source projects, and exploring modern frameworks like **NestJS** and **Spring Boot**.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently expanding my knowledge in **NestJS**, **advanced web security**, and **modern full-stack architectures**
-- 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
-- ⚡ Experience in **networking**, **embedded systems**, and **containerization (Docker)**
-- 📫 Contact: **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
+- 🌱 Currently deepening my expertise in **NestJS**, **advanced web security**, and **modern full-stack architectures**  
+- 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**  
+- ⚡ Experienced in **networking**, **embedded systems**, and **containerization (Docker)**  
+- 📫 Contact: **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**  
 
 ---
 
@@ -46,12 +46,14 @@ I am passionate about continuous learning, open-source collaboration, and workin
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&hide_border=true"
     height="160"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
+    alt="Top Languages"
   />
 </p>
 
