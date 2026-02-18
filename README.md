@@ -1,50 +1,48 @@
----
+# 👋 Hi, I’m **Meshack Venance Bundala**
 
-# 👋 Hi, I'm **Meshack Venance Bundala**
+🎓 **Computer Engineering Graduate**  
+💻 **Full-Stack Software Developer**  
+⚙️ **NestJS & Spring Boot Specialist**  
+🔐 **Web Security-Focused Engineer**
 
-🎓 **Computer Engineering Graduate**
-💻 **Full-Stack Developer** | ⚙️ **NestJS & Spring Boot Enthusiast** | 🔐 **Web Security Advocate**
+I specialize in building **secure, scalable, and high-performance web applications**.  
+My expertise spans **backend and frontend development**, **RESTful API design**, and **web security**, with a strong focus on clean architecture and maintainable code.
 
-I’m passionate about building **secure, scalable, and high-performance web applications**.
-Skilled in **backend & frontend development**, **RESTful APIs**, and **web security**.
-I love solving complex technical challenges, contributing to open-source projects, and exploring modern frameworks like **NestJS** and **Spring Boot**.
+I am passionate about continuous learning, open-source collaboration, and working with modern frameworks such as **NestJS** and **Spring Boot**.
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring **NestJS**, **advanced web security**, and **modern full-stack architectures**
-* 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
-* ⚡ Experienced in **networking**, **embedded systems**, and **containerization (Docker)**
-* 📫 Reach me at: **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
+- 🌱 Currently expanding my knowledge in **NestJS**, **advanced web security**, and **modern full-stack architectures**
+- 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
+- ⚡ Experience in **networking**, **embedded systems**, and **containerization (Docker)**
+- 📫 Contact: **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💬 Languages
-
-![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+### 💬 Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -59,7 +57,7 @@ I love solving complex technical challenges, contributing to open-source project
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meshackvenance7/">
@@ -72,6 +70,4 @@ I love solving complex technical challenges, contributing to open-source project
 
 ---
 
-⭐️ *“Building impactful solutions with clean code, secure design, and continuous learning.”*
-
----
+⭐️ *“Building impactful solutions through clean code, secure design, and continuous learning.”*
