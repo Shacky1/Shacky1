@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shacky1)
 
 </div>
 
@@ -15,13 +16,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring Boot**, passionate about building **secure, scalable, and high-performance web applications** with clean architecture.
+I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring Boot**, passionate about building **secure, scalable, and high-performance web applications** with clean architecture and maintainable code.
 
 - 🌱 Currently deepening expertise in **advanced web security** & **modern full-stack architectures**
 - 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
 - ⚙️ Experienced in **networking**, **embedded systems**, and **Docker containerization**
 - 📍 Based in **Dar es Salaam, Tanzania**
-- 📫 Reach me at **meshackvenance7@gmail.com**
+- 📫 Reach me at **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
 
 ---
 
