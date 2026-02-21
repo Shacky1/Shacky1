@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shacky1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshack-venance)
 
 </div>
 
@@ -52,22 +52,22 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 <div align="center">
 
 <!-- Primary Stats - using github-readme-activity-graph for better accuracy -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shacky1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shacky1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats - DenvSoft provider (more reliable than demolab) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shacky1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Shacky1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shacky1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/meshack-venance)
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph - shows contribution activity visually -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shacky1&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/Shacky1)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/meshack-venance)
 
 </div>
 
@@ -77,7 +77,7 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shacky1&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Shacky1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=meshack-venance&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/meshack-venance)
 
 </div>
 
@@ -89,6 +89,6 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshackvenance7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shacky1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshack-venance)
 
 </div>
