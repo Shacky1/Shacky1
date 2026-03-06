@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Meshack Venance Bundala
+#  Hi, I'm Meshack Venance Bundala
 
 **Computer Engineering Graduate · Full-Stack Developer · Web Security Enthusiast**
 
@@ -14,26 +14,26 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring Boot**, passionate about building **secure, scalable, and high-performance web applications** with clean architecture and maintainable code.
 
-- 🌱 Currently deepening expertise in **advanced web security** & **modern full-stack architectures**
-- 🤝 Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
-- ⚙️ Experienced in **networking**, **embedded systems**, and **Docker containerization**
-- 📍 Based in **Dar es Salaam, Tanzania**
-- 📫 Reach me at **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
+-  Currently deepening expertise in **advanced web security** & **modern full-stack architectures**
+-  Open to collaborating on **NestJS**, **Spring Boot**, **Angular**, and **open-source projects**
+-  Experienced in **networking**, **embedded systems**, and **Docker containerization**
+-  Based in **Dar es Salaam, Tanzania**
+-  Reach me at **[meshackvenance7@gmail.com](mailto:meshackvenance7@gmail.com)**
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 💬 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+###  Frameworks & Tools
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -41,13 +41,13 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
