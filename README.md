@@ -52,8 +52,10 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 <div align="center">
 
 <!-- Primary Stats - using github-readme-activity-graph for better accuracy -->
-<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 
 </div>
 
