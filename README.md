@@ -51,25 +51,31 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 <div align="center">
 
-<!-- Primary Stats - using github-readme-activity-graph for better accuracy -->
-<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<!-- 
+  FIX APPLIED:
+  - exclude_repo: removes forked/generated repos from skewing language stats
+  - hide=HTML: hides Thymeleaf/auto-generated HTML that inflates stats
+  - count_private=true: counts your own private repo contributions
+  - include_all_commits=true: counts commits across all years, not just the current year
+-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&hide=html,css,dockerfile,shell&size_weight=0.5&count_weight=0.5" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats - DenvSoft provider (more reliable than demolab) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meshack-venance&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/meshack-venance)
+<!-- Streak stats using streakstats.salarhio.com — more reliable than demolab -->
+<img src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<!-- Activity Graph - shows contribution activity visually -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/meshack-venance)
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/meshack-venance)
 
 </div>
 
@@ -79,9 +85,14 @@ I'm a **Full-Stack Software Developer** specializing in **NestJS** and **Spring 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=meshack-venance&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/meshack-venance)
+[![trophy](https://github-profile-trophy.vercel.app/?username=meshack-venance&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/meshack-venance)
 
 </div>
+
+---
+
+> ⚠️ **Note on Stats Accuracy:** GitHub stats widgets only reflect **public repositories** and are cached periodically.
+> For a true picture of my work, please explore my **pinned repositories** below.
 
 ---
 
