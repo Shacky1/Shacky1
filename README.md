@@ -4,7 +4,9 @@
 
 ### Full-Stack Software Engineer · Backend Systems Developer · Security Enthusiast
 
-Building scalable, secure, and high-performance applications with modern backend architectures.
+Building scalable, secure, and high-performance applications with modern backend technologies and clean architecture.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
@@ -16,26 +18,25 @@ Building scalable, secure, and high-performance applications with modern backend
 
 ## About Me
 
-I'm a Full-Stack Software Engineer specializing in backend development with **NestJS** and **Spring Boot**, focused on designing secure, scalable, and maintainable systems.
+I'm a Full-Stack Software Engineer specializing in backend development with **NestJS** and **Spring Boot**, focused on designing scalable, secure, and maintainable systems.
 
-My experience includes API architecture, payment integrations, real-time systems, cloud deployment, database optimization, and secure application development. I enjoy building products with clean architecture, efficient performance, and strong engineering practices.
+My experience spans API architecture, payment integrations, real-time systems, cloud infrastructure, database optimization, and secure application development. I enjoy building reliable software with clean architecture, efficient performance, and modern engineering practices.
 
-### Interests
-
-- Backend Engineering & System Design
-- Web Security & Secure API Development
-- Cloud Infrastructure & DevOps
-- Real-Time Applications
-- Open Source Collaboration
+- 🔭 Currently exploring advanced backend architecture and cloud engineering
+- 🌱 Expanding expertise in web security and distributed systems
+- 🤝 Open to collaborating on backend, cloud, and open-source projects
+- ⚡ Passionate about scalable systems, DevOps, and high-performance applications
 
 📍 Dar es Salaam, Tanzania  
 📧 meshackvenance7@gmail.com
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
+## Languages
+
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +44,13 @@ My experience includes API architecture, payment integrations, real-time systems
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Backend & Frameworks
+</div>
+
+---
+
+## Frameworks & Libraries
+
+<div align="left">
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -53,7 +60,13 @@ My experience includes API architecture, payment integrations, real-time systems
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-### Databases, Cloud & Infrastructure
+</div>
+
+---
+
+## Databases, Cloud & Infrastructure
+
+<div align="left">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,35 +75,40 @@ My experience includes API architecture, payment integrations, real-time systems
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
-## Featured Areas
+# Featured Areas
 
 - REST API Development
 - Authentication & Authorization
 - Payment Gateway Integration
 - Real-Time Communication
 - Database Design & Optimization
-- Cloud Deployment & Server Management
+- Cloud Deployment & Infrastructure
 - Secure Application Architecture
+- Backend System Design
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meshack-venance&theme=tokyonight&utcOffset=3" alt="Productive Time" />
 
 </div>
 
 ---
 
-## GitHub Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -100,7 +118,7 @@ My experience includes API architecture, payment integrations, real-time systems
 
 ---
 
-## Achievements
+# Achievements
 
 <div align="center">
 
@@ -110,13 +128,18 @@ My experience includes API architecture, payment integrations, real-time systems
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Advanced Backend Architecture
 - Secure API Development
 - Cloud & DevOps Engineering
-- High-Performance Distributed Systems
+- Distributed Systems
+- Scalable Application Infrastructure
 
 ---
 
-> Passionate about building reliable software systems and scalable digital solutions through clean architecture and modern engineering practices.
+<div align="center">
+
+### “Building reliable software systems with clean architecture, security, and scalability in mind.”
+
+</div>
