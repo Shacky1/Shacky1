@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
 # Meshack Venance Bundala
 
 ### Full-Stack Software Engineer · Backend Systems Developer · Security Enthusiast
 
-Building scalable, secure, and maintainable applications with modern backend architectures.
+Building scalable, secure, and high-performance applications with modern backend architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
@@ -17,11 +16,12 @@ Building scalable, secure, and maintainable applications with modern backend arc
 
 ## About Me
 
-I'm a Full-Stack Software Engineer specializing in backend development with **NestJS** and **Spring Boot**, focused on designing secure, scalable, and high-performance systems.
+I'm a Full-Stack Software Engineer specializing in backend development with **NestJS** and **Spring Boot**, focused on designing secure, scalable, and maintainable systems.
 
-My experience spans API architecture, payment integrations, real-time systems, cloud deployment, and database optimization. I enjoy building products with clean architecture, maintainable codebases, and strong engineering practices.
+My experience includes API architecture, payment integrations, real-time systems, cloud deployment, database optimization, and secure application development. I enjoy building products with clean architecture, efficient performance, and strong engineering practices.
 
 ### Interests
+
 - Backend Engineering & System Design
 - Web Security & Secure API Development
 - Cloud Infrastructure & DevOps
@@ -36,12 +36,14 @@ My experience spans API architecture, payment integrations, real-time systems, c
 ## Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Backend & Frameworks
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -49,6 +51,7 @@ My experience spans API architecture, payment integrations, real-time systems, c
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### Databases & Infrastructure
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,5 +105,13 @@ My experience spans API architecture, payment integrations, real-time systems, c
 
 ---
 
-> I’m passionate about building reliable software systems, learning modern technologies, and contributing to impactful engineering projects.
-```
+## Current Focus
+
+- Advanced Backend Architecture
+- Secure API Development
+- Cloud & DevOps Engineering
+- High-Performance Distributed Systems
+
+---
+
+> Passionate about building reliable software systems and scalable digital solutions through clean architecture and modern engineering practices.
