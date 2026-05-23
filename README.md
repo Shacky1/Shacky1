@@ -76,7 +76,7 @@ I care about writing software that's not just functional but *robust* — system
 |---|---|
 | 🔌 **REST APIs** | Design and build clean, well-documented APIs with proper versioning and error handling |
 | 🔐 **Auth & Security** | JWT, OAuth2, RBAC, session management, and secure application design patterns |
-| 💳 **Payment Integrations** | Payment gateway integrations — from M-Pesa to card processors |
+| 💳 **Payment Integrations** | Payment gateway integrations — from Mobile Money to card processors |
 | ⚡ **Real-Time Systems** | WebSockets, event-driven architecture, and live data pipelines |
 | 🗄️ **Database Design** | Schema design, query optimization, indexing strategies, and migrations |
 | ☁️ **Cloud & DevOps** | Containerized deployments, CI/CD pipelines, cloud infrastructure provisioning |
