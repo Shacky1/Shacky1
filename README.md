@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hey — I'm **Meshack**, a Full-Stack Software Engineer based in **Dar es Salaam, Tanzania** 🇹🇿, specializing in building **scalable backend systems** with NestJS and Spring Boot.
+Hey — I'm **Meshack**, a Full-Stack Software Engineer based in **Dar es Salaam, Tanzania** 🇹🇿, specializing in building **scalable backend systems** with NestJS, Spring Boot, and FastAPI.
 
 I care about writing software that's not just functional but *robust* — systems that hold up under real-world load, stay secure, and remain maintainable over time. From designing REST APIs to integrating payment gateways to orchestrating cloud infrastructure, I aim to build things right.
 
@@ -38,6 +38,7 @@ I care about writing software that's not just functional but *robust* — system
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -49,10 +50,13 @@ I care about writing software that's not just functional but *robust* — system
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 </div>
 
@@ -63,6 +67,7 @@ I care about writing software that's not just functional but *robust* — system
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -75,6 +80,7 @@ I care about writing software that's not just functional but *robust* — system
 | Domain | What I Do |
 |---|---|
 | 🔌 **REST APIs** | Design and build clean, well-documented APIs with proper versioning and error handling |
+| 🐍 **Python APIs** | High-performance async APIs with FastAPI, automatic OpenAPI/Swagger docs, and Pydantic validation |
 | 🔐 **Auth & Security** | JWT, OAuth2, RBAC, session management, and secure application design patterns |
 | 💳 **Payment Integrations** | Payment gateway integrations — from Mobile Money to card processors |
 | ⚡ **Real-Time Systems** | WebSockets, event-driven architecture, and live data pipelines |
@@ -127,6 +133,7 @@ focus_areas:
   - Cloud Engineering & Infrastructure as Code
   - Distributed Systems & Message Queues
   - High-Performance Application Design
+  - Async Python APIs with FastAPI
 ```
 
 ---
