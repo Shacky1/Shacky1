@@ -73,6 +73,16 @@ I care about writing software that's not just functional but *robust* — system
 
 </div>
 
+### Developer Tooling & Documentation
+<div align="left">
+
+![Mintlify](https://img.shields.io/badge/Mintlify-000000?style=for-the-badge&logo=mintlify&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
 ---
 
 ## 🎯 What I Build
@@ -87,6 +97,25 @@ I care about writing software that's not just functional but *robust* — system
 | 🗄️ **Database Design** | Schema design, query optimization, indexing strategies, and migrations |
 | ☁️ **Cloud & DevOps** | Containerized deployments, CI/CD pipelines, cloud infrastructure provisioning |
 | 🏗️ **System Design** | Scalable, fault-tolerant backend architectures built for production |
+| 📄 **API Documentation** | Beautiful, developer-friendly docs with Mintlify — OpenAPI sync, MDX components, versioning, and custom branding |
+
+---
+
+## 📝 Documentation with Mintlify
+
+I use **[Mintlify](https://mintlify.com)** to ship polished, production-grade API documentation alongside every product I build.
+
+```yaml
+mintlify_workflow:
+  - OpenAPI / Swagger spec → auto-generated API reference pages
+  - MDX-powered guides, tutorials & changelogs
+  - Custom branding, navigation, and theming via mint.json
+  - GitHub-integrated docs-as-code (auto-deploy on push)
+  - Interactive "Try It" API playground for every endpoint
+  - Versioned documentation for evolving APIs
+```
+
+> Good software deserves documentation that developers actually want to read.
 
 ---
 
@@ -134,6 +163,7 @@ focus_areas:
   - Distributed Systems & Message Queues
   - High-Performance Application Design
   - Async Python APIs with FastAPI
+  - Developer Experience & API Documentation with Mintlify
 ```
 
 ---
