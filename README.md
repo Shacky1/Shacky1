@@ -8,197 +8,79 @@
 
 Building scalable systems, secure APIs, and production-ready software.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshack-venance)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meshackvenance7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meshack-venance)
-
-![Profile Views](https://komarev.com/ghpvc/?username=meshack-venance\&style=flat-square\&color=6e40c9)
+![Profile Views](https://komarev.com/ghpvc/?username=meshack-venance&style=flat-square&color=6e40c9)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineer from Tanzania focused on backend development, API design, cloud technologies, and secure software architecture.
+Software Engineer from Tanzania focused on backend systems, API design, cloud infrastructure, and application security.
 
-I specialize in building scalable backend systems, designing reliable APIs, optimizing databases, and deploying production-ready applications. My goal is to create software that remains maintainable, secure, and performant as it grows.
-
-```yaml
-specializations:
-  - Backend Engineering
-  - API Development
-  - Cloud Infrastructure
-  - System Design
-  - Application Security
-  - DevOps & Automation
-```
+I build scalable backend services, secure authentication systems, optimized databases, and production-ready applications using modern technologies.
 
 ---
 
-# ⚙️ Core Technologies
+## ⚡ Tech Stack
 
-## Languages
+### Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,cpp" />
 </p>
 
----
+### Backend
 
-## Backend Development
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=spring,nestjs,django,fastapi,nodejs" />
 </p>
 
-### Backend Expertise
+### Frontend & Mobile
 
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* NestJS
-* Django
-* Django REST Framework
-* FastAPI
-* JWT Authentication
-* OAuth2
-* REST API Design
-* OpenAPI / Swagger
-* Role-Based Access Control (RBAC)
-* WebSocket Communication
-* File Upload Systems
-* Email Services
-* Background Jobs
-
----
-
-## Frontend & Mobile
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nextjs,angular,flutter,html,css,tailwind" />
 </p>
 
-### Frontend Expertise
+### Databases
 
-* Next.js
-* Angular
-* Flutter
-* Responsive UI Design
-* State Management
-* API Integration
-* Authentication Flows
-
----
-
-## Databases
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,redis" />
 </p>
 
-### Database Expertise
+### DevOps & Infrastructure
 
-* PostgreSQL
-* MySQL
-* Supabase
-* Firebase
-* Redis
-* Database Design
-* Query Optimization
-* Data Modeling
-* Database Migrations
-
----
-
-## Cloud, DevOps & Infrastructure
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git,postman" />
 </p>
 
-### Infrastructure Skills
+---
 
-* Docker
-* Linux Administration
-* CI/CD Pipelines
-* GitHub Actions
-* Nginx
-* Cloud Deployment
-* Containerized Applications
-* Environment Management
-* Server Configuration
+## 🎯 Expertise
+
+| Domain | Technologies |
+|----------|-------------|
+| Backend Development | Spring Boot, NestJS, Django REST Framework, FastAPI |
+| API Development | REST APIs, OpenAPI, Swagger, WebSockets |
+| Security | JWT, OAuth2, RBAC, Secure Authentication |
+| Databases | PostgreSQL, MySQL, Supabase, Firebase, Redis |
+| Cloud & DevOps | Docker, Linux, CI/CD, GitHub Actions, Nginx |
+| Frontend & Mobile | Next.js, Angular, Flutter |
+| Architecture | Microservices, Distributed Systems, Event-Driven Systems |
 
 ---
 
-## Documentation & API Tooling
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postman,swagger,git" />
-</p>
-
-### Documentation
-
-* Swagger / OpenAPI
-* Mintlify
-* Postman
-* Technical Documentation
-* API Reference Design
-* Docs-as-Code Workflows
-
----
-
-# 🎯 What I Build
-
-| Area              | Experience                                                                              |
-| ----------------- | --------------------------------------------------------------------------------------- |
-| REST APIs         | Secure and scalable APIs for web and mobile applications                                |
-| Backend Systems   | Production-ready services using Spring Boot, NestJS, Django REST Framework, and FastAPI |
-| Authentication    | JWT, OAuth2, RBAC, and secure access control                                            |
-| Database Design   | Relational database modeling and optimization                                           |
-| Cloud Deployments | Dockerized applications and cloud hosting                                               |
-| Real-Time Systems | WebSockets and event-driven communication                                               |
-| Security          | Secure API development and application security                                         |
-| Documentation     | Developer-friendly API documentation and guides                                         |
-
----
-
-# 🚀 Engineering Focus
-
-```yaml
-backend:
-  - Spring Boot
-  - Django REST Framework
-  - FastAPI
-  - NestJS
-
-cloud:
-  - Docker
-  - CI/CD
-  - Infrastructure Automation
-
-security:
-  - Secure Authentication
-  - OWASP Best Practices
-  - Threat Modeling
-
-architecture:
-  - Microservices
-  - Distributed Systems
-  - Event-Driven Architecture
-```
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true" />
 
@@ -208,21 +90,11 @@ architecture:
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/meshack-venance)
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=meshack-venance\&theme=tokyonight\&no-frame=true\&row=1\&column=7)](https://github.com/meshack-venance)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance&theme=tokyo-night&hide_border=true&area=true)](https://github.com/meshack-venance)
 
 </div>
 
@@ -230,8 +102,14 @@ architecture:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+### 💡 Core Focus
+
+`Backend Engineering` • `Cloud Infrastructure` • `System Design` • `Application Security`
+
+<br>
 
 ### "Build software that scales. Secure it. Automate it."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
