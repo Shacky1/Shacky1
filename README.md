@@ -1,177 +1,237 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Meshack%20Venance%20Bundala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=16&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Meshack%20Venance%20Bundala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Cloud%20Enthusiast%20•%20Security%20Focused&descAlignY=58&descSize=16&descColor=a0a0c0" />
+
+# Meshack Venance Bundala
+
+### Backend Engineer • API Developer • Cloud & Security Enthusiast
+
+Building scalable systems, secure APIs, and production-ready software.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshackvenance7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshack-venance)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/meshack-venance-345b5127b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meshackvenance7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meshack-venance)
 
-![Profile Views](https://komarev.com/ghpvc/?username=meshack-venance&style=flat-square&color=6e40c9&label=Profile+Views)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hey — I'm **Meshack**, a Full-Stack Software Engineer based in **Dar es Salaam, Tanzania** 🇹🇿, specializing in building **scalable backend systems** with NestJS, Spring Boot, and FastAPI.
-
-I care about writing software that's not just functional but *robust* — systems that hold up under real-world load, stay secure, and remain maintainable over time. From designing REST APIs to integrating payment gateways to orchestrating cloud infrastructure, I aim to build things right.
-
-```text
-🔭  Currently  →  Advanced backend architecture & cloud engineering
-🌱  Learning   →  Web security, distributed systems & DevOps
-🤝  Open to    →  Backend, cloud, and open-source collaborations
-⚡  Passionate →  High-performance systems, clean architecture, scalability
-📍  Location   →  Dar es Salaam, Tanzania
-```
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<div align="left">
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
-
-### Frameworks & Libraries
-<div align="left">
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-</div>
-
-### Databases, Cloud & Infrastructure
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-### Developer Tooling & Documentation
-<div align="left">
-
-![Mintlify](https://img.shields.io/badge/Mintlify-000000?style=for-the-badge&logo=mintlify&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=meshack-venance\&style=flat-square\&color=6e40c9)
 
 </div>
 
 ---
 
-## 🎯 What I Build
+# 👨‍💻 About Me
 
-| Domain | What I Do |
-|---|---|
-| 🔌 **REST APIs** | Design and build clean, well-documented APIs with proper versioning and error handling |
-| 🐍 **Python APIs** | High-performance async APIs with FastAPI, automatic OpenAPI/Swagger docs, and Pydantic validation |
-| 🔐 **Auth & Security** | JWT, OAuth2, RBAC, session management, and secure application design patterns |
-| 💳 **Payment Integrations** | Payment gateway integrations — from Mobile Money to card processors |
-| ⚡ **Real-Time Systems** | WebSockets, event-driven architecture, and live data pipelines |
-| 🗄️ **Database Design** | Schema design, query optimization, indexing strategies, and migrations |
-| ☁️ **Cloud & DevOps** | Containerized deployments, CI/CD pipelines, cloud infrastructure provisioning |
-| 🏗️ **System Design** | Scalable, fault-tolerant backend architectures built for production |
-| 📄 **API Documentation** | Beautiful, developer-friendly docs with Mintlify — OpenAPI sync, MDX components, versioning, and custom branding |
+I'm a Software Engineer from Tanzania focused on backend development, API design, cloud technologies, and secure software architecture.
 
----
-
-## 📝 Documentation with Mintlify
-
-I use **[Mintlify](https://mintlify.com)** to ship polished, production-grade API documentation alongside every product I build.
+I specialize in building scalable backend systems, designing reliable APIs, optimizing databases, and deploying production-ready applications. My goal is to create software that remains maintainable, secure, and performant as it grows.
 
 ```yaml
-mintlify_workflow:
-  - OpenAPI / Swagger spec → auto-generated API reference pages
-  - MDX-powered guides, tutorials & changelogs
-  - Custom branding, navigation, and theming via mint.json
-  - GitHub-integrated docs-as-code (auto-deploy on push)
-  - Interactive "Try It" API playground for every endpoint
-  - Versioned documentation for evolving APIs
+specializations:
+  - Backend Engineering
+  - API Development
+  - Cloud Infrastructure
+  - System Design
+  - Application Security
+  - DevOps & Automation
 ```
 
-> Good software deserves documentation that developers actually want to read.
+---
+
+# ⚙️ Core Technologies
+
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,cpp" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## Backend Development
 
-<div align="center">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nestjs,django,fastapi,nodejs" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+### Backend Expertise
 
-<img width="49%" src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meshack-venance&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance&theme=tokyo-night&hide_border=true&area=true)](https://github.com/meshack-venance)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=meshack-venance&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/meshack-venance)
-
-</div>
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* NestJS
+* Django
+* Django REST Framework
+* FastAPI
+* JWT Authentication
+* OAuth2
+* REST API Design
+* OpenAPI / Swagger
+* Role-Based Access Control (RBAC)
+* WebSocket Communication
+* File Upload Systems
+* Email Services
+* Background Jobs
 
 ---
 
-## 🚀 Current Focus
+## Frontend & Mobile
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,angular,flutter,html,css,tailwind" />
+</p>
+
+### Frontend Expertise
+
+* Next.js
+* Angular
+* Flutter
+* Responsive UI Design
+* State Management
+* API Integration
+* Authentication Flows
+
+---
+
+## Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,redis" />
+</p>
+
+### Database Expertise
+
+* PostgreSQL
+* MySQL
+* Supabase
+* Firebase
+* Redis
+* Database Design
+* Query Optimization
+* Data Modeling
+* Database Migrations
+
+---
+
+## Cloud, DevOps & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx" />
+</p>
+
+### Infrastructure Skills
+
+* Docker
+* Linux Administration
+* CI/CD Pipelines
+* GitHub Actions
+* Nginx
+* Cloud Deployment
+* Containerized Applications
+* Environment Management
+* Server Configuration
+
+---
+
+## Documentation & API Tooling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postman,swagger,git" />
+</p>
+
+### Documentation
+
+* Swagger / OpenAPI
+* Mintlify
+* Postman
+* Technical Documentation
+* API Reference Design
+* Docs-as-Code Workflows
+
+---
+
+# 🎯 What I Build
+
+| Area              | Experience                                                                              |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| REST APIs         | Secure and scalable APIs for web and mobile applications                                |
+| Backend Systems   | Production-ready services using Spring Boot, NestJS, Django REST Framework, and FastAPI |
+| Authentication    | JWT, OAuth2, RBAC, and secure access control                                            |
+| Database Design   | Relational database modeling and optimization                                           |
+| Cloud Deployments | Dockerized applications and cloud hosting                                               |
+| Real-Time Systems | WebSockets and event-driven communication                                               |
+| Security          | Secure API development and application security                                         |
+| Documentation     | Developer-friendly API documentation and guides                                         |
+
+---
+
+# 🚀 Engineering Focus
 
 ```yaml
-focus_areas:
-  - Advanced Backend Architecture & Microservices
-  - Secure API Development & Threat Modeling
-  - Cloud Engineering & Infrastructure as Code
-  - Distributed Systems & Message Queues
-  - High-Performance Application Design
-  - Async Python APIs with FastAPI
-  - Developer Experience & API Documentation with Mintlify
+backend:
+  - Spring Boot
+  - Django REST Framework
+  - FastAPI
+  - NestJS
+
+cloud:
+  - Docker
+  - CI/CD
+  - Infrastructure Automation
+
+security:
+  - Secure Authentication
+  - OWASP Best Practices
+  - Threat Modeling
+
+architecture:
+  - Microservices
+  - Distributed Systems
+  - Event-Driven Architecture
 ```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meshack-venance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-venance&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=meshack-venance&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meshack-venance&theme=tokyonight&utcOffset=3" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-venance\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/meshack-venance)
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=meshack-venance\&theme=tokyonight\&no-frame=true\&row=1\&column=7)](https://github.com/meshack-venance)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*"Write code that your future self won't have to apologize for."*
+### "Build software that scales. Secure it. Automate it."
 
 </div>
