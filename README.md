@@ -20,7 +20,7 @@ Building scalable systems, secure APIs, and production-ready software.
 
 ## 👨‍💻 About Me
 
-Software Engineer from Tanzania focused on backend systems, API design, cloud infrastructure, and application security.
+Software Engineer focused on backend systems, API design, cloud infrastructure, and application security.
 
 I build scalable backend services, secure authentication systems, optimized databases, and production-ready applications using modern technologies.
 
