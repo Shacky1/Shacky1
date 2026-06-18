@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Meshack%20Venance%20Bundala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Cloud%20Enthusiast%20•%20Security%20Focused&descAlignY=58&descSize=16&descColor=a0a0c0" />
 
-# Meshack Venance Bundala
-
 ### Backend Engineer • API Developer • Cloud & Security Enthusiast
 
 Building scalable systems, secure APIs, and production-ready software.
